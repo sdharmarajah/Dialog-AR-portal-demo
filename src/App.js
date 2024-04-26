@@ -18,7 +18,7 @@ function MaskedContent({ invert, ...props }) {
 
   const texture = useLoader(
     THREE.TextureLoader,
-    "cyberpunk_a_dark_city_during_the_night_with_neon_l.jpg"
+    "colombo.jpg"
   );
   return (
     <mesh>
